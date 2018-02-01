@@ -4,9 +4,9 @@ setup(
     name='django-healthy-pixel',
     version='0.0.0-alpha',
     description='',
-    url='https://github.com/The-Politico/django-healthy-pixel',
-    author='POLITICO interactive news',
-    author_email='interactives@politico.com',
+    url='https://github.com/hobbes7878/django-healthy-pixel',
+    author='Jon McClure',
+    author_email='jon.r.mcclure@gmail.com',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
